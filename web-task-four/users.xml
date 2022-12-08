@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+
+<user id="0">
+  <name>Глебка Сурепка</name>
+  <city>Дискордбург</city>
+  <birth>2022-12-07</birth>
+</user>
+<user id="1">
+  <name>Плут Гениальный</name>
+  <city>Дискордлэнд</city>
+  <birth>2028-12-01</birth>
+</user>
+<user id="2">
+  <name>Рик Обыкновенный</name>
+  <city>Рикролл Таун</city>
+  <birth>2022-12-01</birth>
+</user>
+
+</users>
